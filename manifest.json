@@ -1,11 +1,15 @@
-  {
+{
     "name": "Extend Github",
     "version": "1.0",
     "description": "Save time while managing GitHub repos",
-    "permissions": [],
-    "background": {
-      "scripts": ["background.js"],
-      "persistent": false
-    },
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [
+    {
+        "matches": ["https://github.com/*/*/settings/"],
+        "js": ["githubExtends.js"]
+    }
+    ],
     "manifest_version": 2
-  }
+}
