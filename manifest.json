@@ -6,10 +6,10 @@
         "activeTab"
     ],
     "content_scripts": [
-    {
-        "matches": ["https://github.com/*/*/settings/"],
-        "js": ["githubExtends.js"]
-    }
-    ],
+        {
+          "matches": ["https://github.com/*/*/settings"],
+          "js": ["githubExtends.js"]
+        }
+      ],
     "manifest_version": 2
 }
