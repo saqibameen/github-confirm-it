@@ -1,7 +1,7 @@
 {
-    "name": "Extend Github",
+    "name": "Github Confirm It",
     "version": "1.0",
-    "description": "Save time while managing GitHub repos",
+    "description": "Quickly add repo name to confirm GitHub repo changes",
     "permissions": [
         "activeTab"
     ],
