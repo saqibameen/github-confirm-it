@@ -12,5 +12,6 @@
           "css": ["sa-styles.css"]
         }
       ],
+    "web_accessible_resources": ["images/insert.svg"],
     "manifest_version": 2
 }
