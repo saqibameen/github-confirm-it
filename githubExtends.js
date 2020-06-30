@@ -17,7 +17,7 @@ const updatedInputs = filteredInputs.map(e => {
 function createBtn() {
     const btn = document.createElement('img');
     btn.classList.add('sa-icon');
-    btn.src = 'https://clipboardjs.com/assets/images/clippy.svg';
+    btn.src = chrome.extension.getURL('/images/insert-icon.png');
     btn.addEventListener('click', function(e) {
         e.target.parentElement.firstElementChild.value = inputValue;
         simulateChangeEvent(btn);
