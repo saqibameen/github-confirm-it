@@ -17,7 +17,8 @@ const updatedInputs = filteredInputs.map(e => {
 function createBtn() {
     const btn = document.createElement('img');
     btn.classList.add('sa-icon');
-    btn.src = chrome.extension.getURL('/images/insert-icon.png');
+    // SVG by Kirill Kazachek: https://www.flaticon.com/authors/kirill-kazachek
+    btn.src = chrome.extension.getURL('/images/insert.svg');
     btn.addEventListener('click', function(e) {
         e.target.parentElement.firstElementChild.value = inputValue;
         simulateChangeEvent(btn);
