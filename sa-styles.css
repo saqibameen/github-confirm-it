@@ -9,6 +9,6 @@
     margin-top: 5px;
 }
 
-.sa-icon {
+.sa-icon:hover {
     cursor: pointer;
 }
