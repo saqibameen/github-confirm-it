@@ -2,9 +2,6 @@
     "name": "Github Confirm It",
     "version": "1.0",
     "description": "Quickly add repo name to confirm GitHub repo changes",
-    "permissions": [
-        "activeTab"
-    ],
     "content_scripts": [
         {
           "matches": ["https://github.com/*/*/settings"],
