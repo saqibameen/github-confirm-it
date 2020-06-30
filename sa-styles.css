@@ -11,4 +11,14 @@
 
 .sa-icon:hover {
     cursor: pointer;
+    animation: entrance 0.4s ease-out;
+}
+
+@keyframes entrance {
+    0% {
+        opacity: 40%;
+    }
+    100% {
+        opacity: 100%;
+    }
 }
