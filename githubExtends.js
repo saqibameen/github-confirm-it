@@ -20,6 +20,7 @@ const updatedInputs = filteredInputs.map(e => {
 
 function createBtn() {
     const btn = document.createElement('img');
+    btn.setAttribute('title', 'Auto fill')
     btn.classList.add('sa-icon');
     // SVG by Kirill Kazachek: https://www.flaticon.com/authors/kirill-kazachek
     btn.src = DEF_SVG;
