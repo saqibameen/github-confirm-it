@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="repo-assets/cover.png" alt="cover">
+  <br/>
+</div>
+
 # GitHub Confirm It
 
 Quickly add repository name to confirm actions on GitHub with just a single click. Secure and Open Source.
@@ -25,7 +30,7 @@ Download it from [Chrome Store](https://saqib.dev/gci). It will add a button ins
 
 Go to the Settings of your repository, under the Danger Zone heading, click on any action. You'll notice the small insert text icon in your input. Click on it to insert the text. A quick GIF for you:
 
-![Insert text using GitHub Confirm It]()
+![Insert text using GitHub Confirm It](/repo-assets/in-action.gif)
 
 ## 📋 Permissions
 
