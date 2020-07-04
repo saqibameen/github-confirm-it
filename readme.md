@@ -5,7 +5,7 @@
 
 # GitHub Confirm It
 
-Quickly add repository name to confirm actions on GitHub with just a single click. Secure and Open Source.
+Quickly add repository name to confirm actions on GitHub with just a single click. It helps you stay productive by saving your time and helping you focus on what matters. Secure and Open Source.
 
 ## 🧞‍♂️ Idea
 
