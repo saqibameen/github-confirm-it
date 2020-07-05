@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="repo-assets/cover.png" alt="cover">
+  <a href="https://saqib.dev/gci-chrome"><img src="repo-assets/cover.png" alt="cover"></a>
   <br/>
 </div>
 
