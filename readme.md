@@ -24,13 +24,13 @@ Below are the quick steps to get up and running with this extension.
 
 ### 👨‍💻 Installation
 
-Download it from [Chrome Store](https://saqib.dev/gci). It will add a button inside your input box to quickly insert the text.
+Download it from [Chrome Store](https://saqib.dev/gci-chrome). It will add a button inside your input box to quickly insert the text.
 
 ### 🎯 In Action
 
 Go to the Settings of your repository, under the Danger Zone heading, click on any action. You'll notice the small insert text icon in your input. Click on it to insert the text. A quick GIF for you:
 
-[![Insert text using GitHub Confirm It](/repo-assets/in-action.gif)](https://saqib.dev/gci)
+[![Insert text using GitHub Confirm It](/repo-assets/in-action.gif)](https://saqib.dev/gci-chrome)
 
 ## 📋 Permissions
 
