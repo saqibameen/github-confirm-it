@@ -9,7 +9,7 @@ Quickly add repository name to confirm actions on GitHub with just a single clic
 
 ## 🧞‍♂️ Idea
 
-Whenever I had to perform any action in from the Danger Zone section of GitHub repository options, such as:
+Whenever we have to perform any action in from the Danger Zone section of GitHub repository options, such as:
 
 - Change Visibility
 - Transfer Ownership
