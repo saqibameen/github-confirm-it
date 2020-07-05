@@ -1,6 +1,15 @@
 <div align="center">
   <a href="https://saqib.dev/gci-chrome"><img src="repo-assets/cover.png" alt="cover"></a>
   <br/>
+  <p align="center">
+      <a href="https://saqib.dev/gci-chrome">
+      <img src="https://img.shields.io/chrome-web-store/v/bphgmpcnpcgodbpihggodaejphlkgnkg?style=flat&label=downlaod&logo=google-chrome&logoColor=white" alt="Download for Chrome" />
+      </a>
+      <a href="https://twitter.com/saqibameen">
+      <img src="https://img.shields.io/twitter/follow/saqibameen?color=26A0ED&label=%40saqibameen&logo=twitter&style=flat" alt="Follow on Twitter" />
+      </a>
+      <a href="https://www.producthunt.com/posts/github-confirm-it"> <img src="https://img.shields.io/static/v1?label=UPVOTE&message=ProductHunt&color=red&style=flat" alt="Upvote on Product" /> </a>
+  </p>
 </div>
 
 # GitHub Confirm It
@@ -38,4 +47,4 @@ Only requires `content_script` permission which only run on the settings page of
 
 ## 👋 Say Hi
 
-Let's connect. Say Hi on Twitter [@saqibameen](https://twitter.com/saqibameen). Don't forget to Star 🌟the repo and spread the word!
+Let's connect. Say Hi on Twitter [@saqibameen](https://twitter.com/saqibameen).
